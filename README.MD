@@ -59,24 +59,3 @@ cd customer-segmentation-kmeans
 pip install -r requirements.txt
 python main.py
 ```
-
-## 📈 Results
-| Cluster | Age Group | Income Level | Spending Score | Segment Label |
-|---------|-----------|---------------|-----------------|----------------|
-| 0       | -         | -             | -               | *(fill after running)* |
-| 1       | -         | -             | -               | *(fill after running)* |
-| 2       | -         | -             | -               | *(fill after running)* |
-
-*(Replace with your actual cluster insights once the notebook is run — recruiters look for this table more than the code.)*
-
-## 💡 Key Insights
-- *(e.g., "Cluster 2 represents high-income, low-spending customers — a strong target for loyalty/reward campaigns.")*
-- *(e.g., "Cluster 4 represents young, high-spending customers — ideal for trend-based marketing.")*
-
-## 🚀 Future Improvements
-- Try DBSCAN or Hierarchical Clustering for comparison
-- Add more features (purchase frequency, product category) if available
-- Deploy as a simple Streamlit dashboard for interactive exploration
-
-## 👤 Author
-*(Your name / GitHub / LinkedIn link)*
