@@ -40,4 +40,3 @@ Desktop.ini
 # Keep data/raw/ (Mall_Customers.csv) commitable; ignore generated files.
 data/processed/
 result/
-results/
