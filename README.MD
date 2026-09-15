@@ -1,18 +1,21 @@
 # Customer Segmentation using K-Means Clustering
 
-## 📌 Problem Statement
+## Problem Statement
+
 Retail and e-commerce businesses collect customer data (age, annual income, spending behavior) but often fail to use it effectively for targeted marketing. Treating all customers the same leads to inefficient marketing spend and missed opportunities for personalized offers.
 
 This project uses **unsupervised learning (K-Means Clustering)** to segment mall/retail customers into distinct groups based on their **age, annual income, and spending score**. The goal is to identify meaningful customer segments (e.g., high-income low-spenders, young high-spenders) so a business can design targeted marketing strategies for each group.
 
-## 🎯 Objectives
+## Objectives
+
 - Perform exploratory data analysis (EDA) on customer data
 - Determine the optimal number of clusters using the **Elbow Method** and **Silhouette Score**
 - Apply K-Means clustering to segment customers
 - Visualize and interpret each segment in business terms
 - Provide actionable recommendations per segment
 
-## 🗂️ Folder Structure
+## Folder Structure
+
 ```
 customer-segmentation-kmeans/
 │
@@ -43,16 +46,19 @@ customer-segmentation-kmeans/
 └── main.py
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
+
 - Python
 - Pandas, NumPy (data handling)
 - Matplotlib, Seaborn (visualization)
 - Scikit-learn (K-Means, Silhouette Score)
 
-## 📊 Dataset
+## Dataset
+
 [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) — contains CustomerID, Gender, Age, Annual Income (k$), and Spending Score (1-100).
 
-## ⚙️ How to Run
+## How to Run
+
 ```bash
 git clone https://github.com/<your-username>/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
