@@ -61,7 +61,7 @@ customer-segmentation-kmeans/
 
 ```bash
 git clone https://github.com/utkarshcs18/retail-customer-clustering.git
-cd customer-segmentation-kmeans
+cd retail-customer-clustering
 pip install -r requirements.txt
 python main.py
 ```
