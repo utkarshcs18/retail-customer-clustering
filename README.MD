@@ -60,7 +60,7 @@ customer-segmentation-kmeans/
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/customer-segmentation-kmeans.git
+git clone https://github.com/utkarshcs18/retail-customer-clustering.git
 cd customer-segmentation-kmeans
 pip install -r requirements.txt
 python main.py
