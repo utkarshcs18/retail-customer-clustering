@@ -17,7 +17,7 @@ This project uses **unsupervised learning (K-Means Clustering)** to segment mall
 ## Folder Structure
 
 ```
-customer-segmentation-kmeans/
+retail-customer-clustering/
 │
 ├── data/
 │   ├── raw/
